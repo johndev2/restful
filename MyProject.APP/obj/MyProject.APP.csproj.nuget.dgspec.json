@@ -1,0 +1,262 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.APP\\MyProject.APP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.APP\\MyProject.APP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.APP\\MyProject.APP.csproj",
+        "projectName": "MyProject.APP",
+        "projectPath": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.APP\\MyProject.APP.csproj",
+        "packagesPath": "C:\\Users\\johnv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.APP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johnv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.BLL\\MyProject.BLL.csproj": {
+                "projectPath": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.BLL\\MyProject.BLL.csproj"
+              },
+              "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.MODEL\\MyProject.MODEL.csproj": {
+                "projectPath": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.MODEL\\MyProject.MODEL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.BLL\\MyProject.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.BLL\\MyProject.BLL.csproj",
+        "projectName": "MyProject.BLL",
+        "projectPath": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.BLL\\MyProject.BLL.csproj",
+        "packagesPath": "C:\\Users\\johnv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johnv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.DAL\\MyProject.DAL.csproj": {
+                "projectPath": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.DAL\\MyProject.DAL.csproj"
+              },
+              "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.MODEL\\MyProject.MODEL.csproj": {
+                "projectPath": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.MODEL\\MyProject.MODEL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.DAL\\MyProject.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.DAL\\MyProject.DAL.csproj",
+        "projectName": "MyProject.DAL",
+        "projectPath": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.DAL\\MyProject.DAL.csproj",
+        "packagesPath": "C:\\Users\\johnv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johnv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.MODEL\\MyProject.MODEL.csproj": {
+                "projectPath": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.MODEL\\MyProject.MODEL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.MODEL\\MyProject.MODEL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.MODEL\\MyProject.MODEL.csproj",
+        "projectName": "MyProject.MODEL",
+        "projectPath": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.MODEL\\MyProject.MODEL.csproj",
+        "packagesPath": "C:\\Users\\johnv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\johnv\\Downloads\\project-multilayer\\project-multilayer\\MyProject.MODEL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\johnv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
